@@ -79,4 +79,3 @@ df = pd.DataFrame(data, columns=['Title', 'Subtitle', 'Price', 'Offer', 'Shippin
 
 df.to_csv('ebay_laptops.csv', index=False)
 
-print("Data has been successfully written to ebay_laptops.csv")
