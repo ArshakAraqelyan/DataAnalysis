@@ -1,4 +1,4 @@
-# eBay Laptop Scraper
+# eBay Laptop Data Scraper
 
 This project is a Python-based web scraper designed to extract data from eBay's laptop listings. The scraper automates the process of collecting relevant details such as the title, subtitle, price, best offer availability, shipping cost, country of origin, and the number of units sold for each listing. The extracted data is then saved into a CSV file for further analysis or use.
 
